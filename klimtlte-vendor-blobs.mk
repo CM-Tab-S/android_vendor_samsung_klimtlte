@@ -95,5 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
     vendor/samsung/klimtlte/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/klimtlte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/klimtlte/proprietary/bin/cbd:system/bin/cbd
-    vendor/samsung/klimtlte/proprietary/bin/rild:system/bin/rild
+    vendor/samsung/klimtlte/proprietary/bin/cbd:system/bin/cbd \
+    vendor/samsung/klimtlte/proprietary/bin/rild:system/bin/rild \
+    vendor/samsung/klimtlte/proprietary/sbin/sswap:root/sbin/sswap
